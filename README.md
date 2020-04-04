@@ -27,7 +27,7 @@ This Gesture Recognition model is divdied into two parts
 
 ***
 
-## Read our paper [Hand Gesture Recognition to Perform System Operations] (https://www.irjet.net/archives/V7/i3/IRJET-V7I3926.pdf) on IRJET 
+## Read our paper [Hand Gesture Recognition to Perform System Operations](https://www.irjet.net/archives/V7/i3/IRJET-V7I3926.pdf) on IRJET 
 
 ***
 
