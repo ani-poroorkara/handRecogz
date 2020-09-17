@@ -120,7 +120,7 @@ if __name__ == "__main__":
     print("*********************************************************************")
     print("<<<<<<<<<< HAND RECOGZ DEVICE >>>>>>>>>>")
     print("*********************************************************************")
-    print("GitHub Link : ")
+    print("GitHub Link : https://github.com/ani-poroorkara/handRecogz")
     print("Stay clear of the ROI while background gets caliberated")
 
     while(True):
